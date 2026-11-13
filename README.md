@@ -1,9 +1,5 @@
 <h1 align="center">krivoshy</h1>
 
-<div align="center">
-  <img src="images/columbina_tenor.gif" width="420" alt="Columbina Banner" />
-</div>
-
 ###
 
 <!-- 1. Languages & Frameworks -->
