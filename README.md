@@ -1,4 +1,4 @@
-<h1 align="center">🌸 krivoshy / desktop & systems </h1>
+<h1 align="center">krivoshy</h1>
 
 <div align="center">
   <img src="images/columbina_tenor.gif" width="420" alt="Columbina Banner" />
