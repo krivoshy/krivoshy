@@ -102,18 +102,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=krivoshy&theme=tokyonight&show_icons=true&hide_border=true&locale=ru" />
-</p>
-
-###
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krivoshy&theme=tokyonight&hide_border=true" />
-</p>
-
-###
-
 <!-- Contribution Snake (from output branch) -->
 <p align="center">
   <picture>
